@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Karande</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **C++, MySQL**
+- 🌱 I’m currently learning **Android Studio, Python & Javascript**
 
 - 📫 How to reach me **shubhamkarande94@gmail.com**
 
