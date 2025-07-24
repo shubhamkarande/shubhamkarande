@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **shubhamkarande94@gmail.com** For Collaboration/Project or Anything Else. 🤝
 
-## 🔗 I am a self-taught Software Developer. ⚡
+## 🔗 I'm a self-taught Software Developer. ⚡
 
 💻 Self-taught Software Engineer with a passion for crafting modern, high-performance web and mobile applications. I thrive on turning ideas into reality through clean code, intuitive UI/UX, and scalable architecture.
 
