@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **shubhamkarande94@gmail.com** For Collaboration/Project or
 📚 Always learning. Always building. Always evolving.
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=shubhamkarande&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
 # 💻 Tech Stack:
