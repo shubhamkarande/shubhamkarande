@@ -1,10 +1,10 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm Shubham Karande
 
-A passionate Software Developer || Full Stack Engineer || Tech Enthusiast from [Your Location]
+A passionate Software Developer || Full Stack Engineer || Web & App Dev Enthusiast from Mumbai, India.
 
-Email Me 📧 📧 **[your.email@example.com]** For Collaboration/Project or Anything Else. 😊 😊
+Email me 👉 📧 **[shubhamkarande94@gmail.com]** for collaboration/project or anything else. 🤝
 
-## 🔗 I am a Content Creator. 😊 😊
+## 🔗 I am a I'm a dedicated self-taught Software Engineer passionate about crafting innovative, user-focused web and mobile applications that deliver seamless experience. ⚡
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
