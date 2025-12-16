@@ -10,6 +10,7 @@
 I build modern, scalable, and user-focused digital experiences — from responsive web apps to smart AI-powered solutions.
 
 Currently leveling up in:
+
 • Machine Learning & Deep Learning  
 • Generative AI (RAG, LLM Agents, Fine-Tuning)  
 • Cloud-based AI deployments
